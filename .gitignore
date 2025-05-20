@@ -98,8 +98,8 @@ ehthumbs.db
 Desktop.ini
 
 # Data files (optional—uncomment if you don't want to track large CSVs or pickles)
-# *.csv
-# *.pkl
+*.csv
+*.pkl
 # data/
 
 # Logs and runtime files
